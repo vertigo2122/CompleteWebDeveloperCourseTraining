@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<ht lang="en"
+<head>
+    <title>My Webpage 2</title>
+    <p>basic html layout examples</p>
+</head>
+<body>
+    <h1>H1 with no styling</h1> /*NOTE -  on pages to raise up higher on search engines*/
+    <h2>H2 without styling</h2> 
+    <h3>H3 without Styling</h3>
+    <h4>H4 without styling</h4>
+    <h5>H5 without styling</h5>
+    <h6>H6 without styling</h6>
+</body>
+    <p>Here is some text in p</p>
+    Here is some text without p /*NOTE - without p tags it will not go to next line <brake></brake>
+    <p>Here is some text <br>with a line brake</p>
+<p>here is some <b>bold</b> text using b brackets</p>
+<p>here is some <em>italic</em> text using em brackets</p>
+<p>here is some <u>underlined</u> text can use u or ins brackets to create this</p>
+<p>here is some <sup>superscript</sup> using sup brackets</p>
+<p>here is some <sub>subscript</sub> using sub brackets</p>
+<p> here is some <del>deleted text</del> using del brackets</p>
+<p> use hr brackets (self closing-tag) between lines </p>
+<p>go to html in google link to w3schools to see additional html information </p>
+    </html>
